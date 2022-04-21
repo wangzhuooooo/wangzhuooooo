@@ -7,7 +7,7 @@ Hello, World! I'm wangzhuo, a back-end engineer(Golang)👨‍💻.
 
 - 🆒 I'm interesting in 🐈 撸猫, 📺️ TV series, 🎵 pop music, etc.
 
-- 📫 email: wangzhuooooo.gmail.com
+- 📫 email: wangzhuooooo@gmail.com
 
 - 🐧 QQ: 2577780673
   
